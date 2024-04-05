@@ -1,6 +1,6 @@
 ![AdventureWorks_Logo](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/68b7dc07-0956-4639-a522-753a4935799b)
 # Adventures Works Data Analysis
-I worked as a Business Intelligence Analyst for Adventures Works(fictional), a global manufacturing company that produces cycling equipment and accessories.
+I worked as a Business Intelligence Analyst for Adventures Works, a fictitious global manufacturing company that produces cycling equipment and accessories.
 The management team needed a way to track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends and identify high-value customers.
 All I was given was a folder of raw csv files which contained information about transactions, returns, products, customers and sales territories.
 I used power bi desktop to-
