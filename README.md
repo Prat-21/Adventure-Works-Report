@@ -9,3 +9,5 @@ I used power bi desktop to-
                            2.Build a relational data model.
                            3.Create calculated columns & measures with DAX.
                            4.Design an interactive dashboard to visualize the data.
+##Documentation
+These are the datasets used in the project 
