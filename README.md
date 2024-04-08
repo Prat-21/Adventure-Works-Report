@@ -30,11 +30,11 @@ Now that I had established my table relationships, I could begin utilizing some 
 
 **ITERATOR** **FUNCTIONS** **(**SUMX**)**: These are formulas which evaluate an expression based on each row and then aggregate the results.
 
-**CALCULATE** **()**: It acts as an overriding filter to give you a new filter context. It was incredibly useful for establishing Previous Months Orders, Revenue, Profit, Returns and Overall Average Price.
+**CALCULATE**(): It acts as an overriding filter to give you a new filter context. It was incredibly useful for establishing Previous Months Orders, Revenue, Profit, Returns and Overall Average Price.
 
-**RELATED** **()**: This function allows you to pull data from different tables as long as there is an established many to one relationship.
+**RELATED**(): This function allows you to pull data from different tables as long as there is an established many to one relationship.
 
-**Date** **Functions** **(**DATEADD**, **DATESINPERIOD**)**: These date functions were very helpful when establishing a 90 Day Rolling Profit as well as the Previous Months Order, Profit, Revenue and Returns.
+**Date** **Functions**(**DATEADD**, **DATESINPERIOD**): These date functions were very helpful when establishing a 90 Day Rolling Profit as well as the Previous Months Order, Profit, Revenue and Returns.
 
 The measures which were created for this project were placed into their own specific Measure Table.
 
