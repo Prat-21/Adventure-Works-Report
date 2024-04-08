@@ -1,4 +1,5 @@
 ![AdventureWorks_Logo](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/68b7dc07-0956-4639-a522-753a4935799b)
+
 # Adventures Works Data Analysis
 I had the opportunity to complete a project with Adventure Works Data set.
 I worked as a Business Intelligence Analyst for Adventures Works, a fictitious global manufacturing company that produces cycling equipment and accessories.
@@ -41,4 +42,9 @@ The measures which were created for this project were placed into their own spec
 ## Data Visualization
 
 A total of 6 visualization pages were created for this report. These include:
+
+1.**Executive Dashboard**: It includes company wide KPIs, Trending Revenue, most ordered products, monthly returned products and several other important details.
+
+![Screenshot (2)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/d2d27fac-d41e-4984-9582-a6ef7b7e5a1e)
+
 
