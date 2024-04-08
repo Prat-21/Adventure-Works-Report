@@ -21,3 +21,6 @@ The raw data set came in .csv format and was imported to Power BI directly. A to
 ## Data Modeling
 
 After ensuring my data’s accuracy and consistency, I began the process of creating a data model for my tables. I first established my data tables which are ‘Sales Data’ and ‘Returns Data’, then began work by creating relationships between tables. For this project I did not find it necessary to use any relationships other than one to many. A picture of the completed model is provided below for greater understanding.
+
+![Screenshot (1)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/a5032d5d-fc94-4091-9727-6810353fd9b9)
+
