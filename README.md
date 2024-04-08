@@ -47,4 +47,3 @@ A total of 6 visualization pages were created for this report. These include:
 
 ![Screenshot (2)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/d2d27fac-d41e-4984-9582-a6ef7b7e5a1e)
 
-
