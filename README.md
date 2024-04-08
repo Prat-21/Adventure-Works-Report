@@ -20,7 +20,16 @@ The raw data set came in .csv format and was imported to Power BI directly. A to
 
 ## Data Modeling
 
-After ensuring my data’s accuracy and consistency, I began the process of creating a data model for my tables. I first established my data tables which are ‘Sales Data’ and ‘Returns Data’, then began work by creating relationships between tables. For this project I did not find it necessary to use any relationships other than one to many. A picture of the completed model is provided below for greater understanding.
+After ensuring my data’s accuracy and consistency, I began the process of creating a data model for my tables. I first established my data tables which are ‘Sales Data’ and ‘Returns Data’, then, began work by creating relationships between tables. For this project I did not find it necessary to use any relationships other than one to many. A picture of the completed model is provided below for greater understanding.
 
 ![Screenshot (1)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/a5032d5d-fc94-4091-9727-6810353fd9b9)
 
+## DAX Functions
+
+Now that I had established my table relationships, I could begin utilizing some DAX functions to analyze the data set. I started by creating basic KPI’s such as Revenue, Profit, and Total Orders which would help me to calculate more advanced metrics later on. Some of the DAX functions I used the most include:
+
+ITERATOR FUNCTIONS (SUMX): These are formulas which evaluate an expression based on each row and then aggregate the results.
+CALCULATE(): acts as an overriding filter to give you a new filter context. Was incredibly useful for establishing Previous Months Orders, Revenue, Profit, Returns and Overall Average Price
+RELATED(): This function allows you to pull data from different tables as long as there is an established many to one relationship.
+Date Functions(DateAdd, DATESINPERIOD): These date functions were very helpful when establishing a 90 Day Rolling Profit as well as the Previous Months Order, Profit, Revenue and Returns.
+The measures which were created for this project were placed into their own specific Measure Table.
