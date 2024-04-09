@@ -105,10 +105,18 @@ On this page I was able to break our customers down by occupation and income lev
 
 A steep increase in total customers can be seen in July 2021 which can possibly explained by it being the summer months with biking being more popular.
 
-The Top 100 Customers Table has several interesting factors. In addition to providing an overview of the Top 100 customers, it also provides their total orders and it was here that some interesting insights were found.
+The Top 100 Customers table has several interesting factors. In addition to providing an overview of the Top 100 customers, it also provides their total orders and some other interesting insights.
+
 Take for example, the top customer displayed in the bottom right corner or first row of the table. Mr. Shan was able to secure the top position in terms of Revenue with only 6 total orders. In fact, the top 5 customers all created Revenue greater than 11,000$ and all did this with 7 or less orders.
 
 To contrast this, Mr. Fernando Barnes ordered a total of 26 products and only brought in 1,839$ dollars. This demonstrates the wide range in cost of the products sold by Adventure Works.
 
 
 
+![Screenshot (11)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/0fdd6467-0140-4599-810a-da069eee2d61)
+
+
+
+## Conclusion
+
+Overall, It was a really good project and I really enjoyed working on it from end to end. Being able to see the whole process from start to finish provides a unique perspective on the visuals and the data itself. I look forward to completing more of these projects and tackling more complex data sets in the future. Thank you for taking the time to read the article, and please don’t hesitate to share any insightful feedback you may have!
