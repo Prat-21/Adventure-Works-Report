@@ -73,3 +73,31 @@ A slicer Panel located in the top left is also available to further filter down 
 
 
 
+Some key insights found from this page were that while the United States makes up the majority of Adventure Work’s Orders (8,700), the Pacific also shares a significant share of the total orders as well (6,060).
+
+Germany had least orders with 2294.
+
+Additionally, no sales have taken place in Asia, Africa, or South America indicating a potential for new markets to break into.
+
+3.**Product detail**: This page provided an in-depth and interactive look at the relationship between the products of Adventure Works and their respective revenue, orders, profit, returns and return rate.
+
+For the selected product I have chosen “Water Bottle - 30 oz.”. Here we can see this item is not meeting the any of the monthly targets for Orders, Revenue or Profit.
+
+Additionally, we can see in the bottom area chart that the reason for this is likely due to a sharp increase in returns for this product which may indicate a potential defect with the product.
+
+
+
+![Screenshot (7)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/c0d074c2-e63d-408d-aedf-437b7bca0d3e)
+
+
+
+4.**Customer Detail**:  Multiple visuals of the relationship between customers and business metrics can be found on this page.
+
+
+
+
+![Screenshot (6)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/f48f851d-328a-446d-9c41-c3aadae017e8)
+
+
+
+
