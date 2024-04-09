@@ -117,6 +117,30 @@ To contrast this, Mr. Fernando Barnes ordered a total of 26 products and only br
 
 
 
+I have also made some visualizations based on Power BI's latest AI features which are:
+
+**1**.**Q&A** **Visual**: This AI visualization helps in exploring the data using natuaral language prompts and queries. We can ask questions and get answers in a visual form.
+
+
+![Screenshot (12)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/de6154a5-e647-474e-a2fc-dcbb62c56fbb)
+
+
+
+**2**.**Decomposition Tree**: This AI visualization allows you to visualiza how your data is distributed across multiple dimensions. It aggregates data and enables drilling down into your dimensions in any order you like.
+
+
+
+![Screenshot (13)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/07fa0564-a4de-4a08-861c-fb56329d63c9)
+
+
+
+**3**.**Key Influencers**: This AI visualization tool helps in understanding factors that are driving key business outcomes. It analyzes the data and displays what are the key factors.
+
+
+
+![Screenshot (14)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/2c63eaa9-f28e-4bba-a04d-ad415a71ad9b)
+
+
 
 ## Conclusion
 
