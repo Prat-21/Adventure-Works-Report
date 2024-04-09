@@ -45,7 +45,7 @@ The measures which were created for this project were placed into their own spec
 
 ## Data Visualization
 
-A total of 6 visualization pages were created for this report. These include:
+A total of 4 main visualization pages were created for this report. These include:
 
 
 **1**.**Executive Dashboard**: It includes company wide KPIs, Trending Revenue, most ordered products, monthly returned products and several other important details.
@@ -114,6 +114,7 @@ To contrast this, Mr. Fernando Barnes ordered a total of 26 products and only br
 
 
 ![Screenshot (11)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/0fdd6467-0140-4599-810a-da069eee2d61)
+
 
 
 
