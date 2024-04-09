@@ -24,7 +24,9 @@ The raw data set came in .csv format and was imported to Power BI directly. A to
 After ensuring my data’s accuracy and consistency, I began the process of creating a data model for my tables. I first established my data tables which are ‘Sales Data’ and ‘Returns Data’, then, began work by creating relationships between tables. For this project I did not find it necessary to use any relationships other than one to many. A picture of the completed model is provided below for greater understanding.
 
 
+
 ![Screenshot (1)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/a5032d5d-fc94-4091-9727-6810353fd9b9)
+
 
 
 ## DAX Functions
@@ -52,15 +54,19 @@ A total of 6 visualization pages were created for this report. These include:
 ![Screenshot (2)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/d2d27fac-d41e-4984-9582-a6ef7b7e5a1e)
 
 
+
 This dashboard is meant to be a general overview of company performance for anyone to understand.
 
 A slicer Panel located in the top left is also available to further filter down visuals based on the year and continent providing a more granular look at the most important KPI’s.
 
 
+
 ![Screenshot (3)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/27495ef3-c229-4a4b-8c39-d3fe6b2786d6)
 
 
+
 2.**Map**: This is an interactive visual of the company’s order distribution throughout the world broken down by continent.
+
 
 
 ![Screenshot (4)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/b6765275-c929-4b66-93b2-a186da8b0ef9)
