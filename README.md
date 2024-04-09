@@ -87,7 +87,8 @@ Additionally, we can see in the bottom area chart that the reason for this is li
 
 
 
-![Screenshot (7)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/c0d074c2-e63d-408d-aedf-437b7bca0d3e)
+![Screenshot (8)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/ba3a5cde-4e85-4464-a1de-47c8dfd60841)
+
 
 
 
