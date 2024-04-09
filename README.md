@@ -48,7 +48,7 @@ The measures which were created for this project were placed into their own spec
 A total of 6 visualization pages were created for this report. These include:
 
 
-1.**Executive Dashboard**: It includes company wide KPIs, Trending Revenue, most ordered products, monthly returned products and several other important details.
+**1**.**Executive Dashboard**: It includes company wide KPIs, Trending Revenue, most ordered products, monthly returned products and several other important details.
 
 
 ![Screenshot (2)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/d2d27fac-d41e-4984-9582-a6ef7b7e5a1e)
@@ -65,7 +65,7 @@ A slicer Panel located in the top left is also available to further filter down 
 
 
 
-2.**Map**: This is an interactive visual of the company’s order distribution throughout the world broken down by continent.
+**2**.**Map**: This is an interactive visual of the company’s order distribution throughout the world broken down by continent.
 
 
 
@@ -79,7 +79,7 @@ Germany had least orders with 2294.
 
 Additionally, no sales have taken place in Asia, Africa, or South America indicating a potential for new markets to break into.
 
-3.**Product detail**: This page provided an in-depth and interactive look at the relationship between the products of Adventure Works and their respective revenue, orders, profit, returns and return rate.
+**3**.**Product detail**: This page provided an in-depth and interactive look at the relationship between the products of Adventure Works and their respective revenue, orders, profit, returns and return rate.
 
 For the selected product I have chosen “Water Bottle - 30 oz.”. Here we can see this item is not meeting the any of the monthly targets for Orders, Revenue or Profit.
 
@@ -92,13 +92,23 @@ Additionally, we can see in the bottom area chart that the reason for this is li
 
 
 
-4.**Customer Detail**:  Multiple visuals of the relationship between customers and business metrics can be found on this page.
+**4**.**Customer Detail**:  Multiple visuals of the relationship between customers and business metrics can be found on this page.
 
 
 
 
-![Screenshot (6)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/f48f851d-328a-446d-9c41-c3aadae017e8)
+![Screenshot (9)](https://github.com/Prat-21/Adventure-Works-Report/assets/165648053/a11b881e-cf00-42f5-93c8-939b31d3e4d3)
 
+
+
+On this page I was able to break our customers down by occupation and income level as represented in the Donut Charts in the bottom left.
+
+A steep increase in total customers can be seen in July 2021 which can possibly explained by it being the summer months with biking being more popular.
+
+The Top 100 Customers Table has several interesting factors. In addition to providing an overview of the Top 100 customers, it also provides their total orders and it was here that some interesting insights were found.
+Take for example, the top customer displayed in the bottom right corner or first row of the table. Mr. Shan was able to secure the top position in terms of Revenue with only 6 total orders. In fact, the top 5 customers all created Revenue greater than 11,000$ and all did this with 7 or less orders.
+
+To contrast this, Mr. Fernando Barnes ordered a total of 26 products and only brought in 1,839$ dollars. This demonstrates the wide range in cost of the products sold by Adventure Works.
 
 
 
