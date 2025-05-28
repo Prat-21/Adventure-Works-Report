@@ -119,7 +119,7 @@ To contrast this, Mr. Fernando Barnes ordered a total of 26 products and only br
 
 I have also made some visualizations based on Power BI's latest AI features which are:
 
-**1**.**Q&A** **Visual**: This AI visualization helps in exploring the data using natuaral language prompts and queries. We can ask questions and get answers in a visual form. Here, I have asked total orders by start of 
+**1**.**Q&A** **Visual**: This AI visualization helps in exploring the data using natural language prompts and queries. We can ask questions and get answers in a visual form. Here, I have asked total orders by start of 
                           month using line chart.
 
 
